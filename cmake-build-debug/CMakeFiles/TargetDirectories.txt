@@ -1,0 +1,3 @@
+C:/Users/Пользователь/Documents/GitHub/codeforces/cmake-build-debug/CMakeFiles/codeforces.dir
+C:/Users/Пользователь/Documents/GitHub/codeforces/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Пользователь/Documents/GitHub/codeforces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
