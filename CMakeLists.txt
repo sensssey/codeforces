@@ -3,4 +3,4 @@ project(codeforces)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(codeforces main.cpp)
+add_executable(codeforces segment_tree.cpp)
